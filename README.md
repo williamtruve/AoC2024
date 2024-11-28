@@ -1,2 +1,2 @@
-# AoC2025
+# AoC2024
 Advent of code 2024!
